@@ -1,0 +1,17 @@
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\bin\Debug\Taquin.exe.config
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\bin\Debug\Taquin.exe
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\bin\Debug\Taquin.pdb
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\bin\Debug\Taquin.xml
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.vbprojAssemblyReference.cache
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.Choice.resources
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.Leaderboard.resources
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.Home.resources
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.Resources.resources
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.Options.resources
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.Profile.resources
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.Taquin.resources
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.vbproj.GenerateResource.cache
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.vbproj.CoreCompileInputs.cache
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.exe
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.xml
+C:\Users\TADJER Badr\Documents\Devoir - Exposer\IUT\1er Année\Periode D\IHM\Taquin\Taquin\obj\Debug\Taquin.pdb
